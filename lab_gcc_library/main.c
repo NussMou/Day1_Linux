@@ -1,8 +1,8 @@
 // main.c
- void mylib_function();
+void mylib_function();
 
  int main() {
-     mylib_function();
-         return 0;
-         }
+    mylib_function();
+    return 0;
+}
 //         
